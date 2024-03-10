@@ -1,0 +1,11 @@
+/home/l2/projetos/outros_projetos/rust/hello-rust/target/debug/deps/libtextwrap-0ccce29e06d37caa.rmeta: /home/l2/.cargo/registry/src/index.crates.io-6f17d22bba15001f/textwrap-0.13.4/src/lib.rs /home/l2/.cargo/registry/src/index.crates.io-6f17d22bba15001f/textwrap-0.13.4/src/indentation.rs /home/l2/.cargo/registry/src/index.crates.io-6f17d22bba15001f/textwrap-0.13.4/src/splitting.rs /home/l2/.cargo/registry/src/index.crates.io-6f17d22bba15001f/textwrap-0.13.4/src/core.rs /home/l2/.cargo/registry/src/index.crates.io-6f17d22bba15001f/textwrap-0.13.4/src/core/optimal_fit.rs
+
+/home/l2/projetos/outros_projetos/rust/hello-rust/target/debug/deps/libtextwrap-0ccce29e06d37caa.rlib: /home/l2/.cargo/registry/src/index.crates.io-6f17d22bba15001f/textwrap-0.13.4/src/lib.rs /home/l2/.cargo/registry/src/index.crates.io-6f17d22bba15001f/textwrap-0.13.4/src/indentation.rs /home/l2/.cargo/registry/src/index.crates.io-6f17d22bba15001f/textwrap-0.13.4/src/splitting.rs /home/l2/.cargo/registry/src/index.crates.io-6f17d22bba15001f/textwrap-0.13.4/src/core.rs /home/l2/.cargo/registry/src/index.crates.io-6f17d22bba15001f/textwrap-0.13.4/src/core/optimal_fit.rs
+
+/home/l2/projetos/outros_projetos/rust/hello-rust/target/debug/deps/textwrap-0ccce29e06d37caa.d: /home/l2/.cargo/registry/src/index.crates.io-6f17d22bba15001f/textwrap-0.13.4/src/lib.rs /home/l2/.cargo/registry/src/index.crates.io-6f17d22bba15001f/textwrap-0.13.4/src/indentation.rs /home/l2/.cargo/registry/src/index.crates.io-6f17d22bba15001f/textwrap-0.13.4/src/splitting.rs /home/l2/.cargo/registry/src/index.crates.io-6f17d22bba15001f/textwrap-0.13.4/src/core.rs /home/l2/.cargo/registry/src/index.crates.io-6f17d22bba15001f/textwrap-0.13.4/src/core/optimal_fit.rs
+
+/home/l2/.cargo/registry/src/index.crates.io-6f17d22bba15001f/textwrap-0.13.4/src/lib.rs:
+/home/l2/.cargo/registry/src/index.crates.io-6f17d22bba15001f/textwrap-0.13.4/src/indentation.rs:
+/home/l2/.cargo/registry/src/index.crates.io-6f17d22bba15001f/textwrap-0.13.4/src/splitting.rs:
+/home/l2/.cargo/registry/src/index.crates.io-6f17d22bba15001f/textwrap-0.13.4/src/core.rs:
+/home/l2/.cargo/registry/src/index.crates.io-6f17d22bba15001f/textwrap-0.13.4/src/core/optimal_fit.rs:
