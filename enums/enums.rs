@@ -33,5 +33,8 @@ fn handle_message(msg: Message) {
         ChangeColor(r, g, b) => {
             println!("editar as cores do  RGB({},{},{})", r, g, b);
         }
+
+        // Paste => {} // se for Paste nao faz nada
+        // _ => {} // se for qualquer outra coisa nao faz nada
     }
 }

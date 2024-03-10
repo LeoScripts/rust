@@ -106,4 +106,24 @@ o arquivo estara na em `./target/release`
 ## enums
 
 - [enums](./enums/enums.rs)
+
 - [enums 2](./enums/enums_2.rs)
+    
+    existem 2 enums por padrao no Rust, 
+    são eles: `Option` e Result
+
+```diff
+! Curiosidade
+
++ no rust não existem tipos anulaveis como:
++ undefined
++ null
++ none
+
++ todos os tipos são algum tipo
+
++ pra poder receber alguma coisa vasia 
++ agente vai usar o 
+- enm "Option" 
+
+```
