@@ -73,16 +73,6 @@ o retorno de ser
             / '-----' \
 
 
-
-## Condicionais
-
-- [if, else e else if](./condicionais/esle_else-if_else.rs)
-
-## loops
-
-- [loops](./loops/loops.rs)
-
-
 ## build pra debud (DEV) / release (PROD)
 
 - desenvolvimento
@@ -99,3 +89,21 @@ cargo build --release --example ARQUIVO_DESEJADO
 ```
 
 o arquivo estara na em `./target/release` 
+
+
+## Condicionais
+
+- [if, else e else if](./condicionais/esle_else-if_else.rs)
+
+## loops
+
+- [loops](./loops/loops.rs)
+
+## struct (objetos)
+
+- [structs(objetos)](./struct_objeto/struct.rs)
+
+## enums
+
+- [enums](./enums/enums.rs)
+- [enums 2](./enums/enums_2.rs)
