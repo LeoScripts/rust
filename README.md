@@ -35,7 +35,14 @@ apos executar o run:
 
 ## adicionando crate(libraria(biblioteca ou pacote))
 
-no arquivo `Cargo.toml` (similar ao package.json do node) iserir:
+- https://crates.io/ onde estao todos as libs de terceiros
+
+1. exemplos
+    - `cargo install NOME-DA-LIB`
+    - `cargo add Nome-da-lib`
+
+
+2. no arquivo `Cargo.toml` (similar ao package.json do node) iserir:
 
 > nesse exemplo estaremos intalando o `ferris-says`
 
@@ -84,7 +91,7 @@ cargo build --example ARQUIVO_DESEJADO
 - produção
 
 ```bash
-
+                    # o "--example" e pra ser usando somente em testes
 cargo build --release --example ARQUIVO_DESEJADO
 ```
 
