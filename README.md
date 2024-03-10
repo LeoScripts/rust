@@ -72,29 +72,30 @@ o retorno de ser
             '_   -   _'
             / '-----' \
 
+
+
 ## Condicionais
 
-- if, else if, else
-
-```rs
-
-fn main() {
-    let a = 12
-
-    if a == 10 {
-        println!("1 é maior que 2");
-    } else if a < 10 {
-        println!("1 é menor que 2");
-    } else {
-        println!("1 é igual a 2");
-    }
-}
-
-```
+- [if, else e else if](./condicionais/esle_else-if_else.rs)
 
 ## loops
 
-```rs
+- [loops](./loops/loops.rs)
 
+
+## build pra debud (DEV) / release (PROD)
+
+- desenvolvimento
+
+```bash
+cargo build --example ARQUIVO_DESEJADO
 
 ```
+- produção
+
+```bash
+
+cargo build --release --example ARQUIVO_DESEJADO
+```
+
+o arquivo estara na em `./target/release` 
